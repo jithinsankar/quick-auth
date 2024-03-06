@@ -1,0 +1,5 @@
+DATABASE_URL=file:./xxx.db
+
+STRIPE_API_KEY=sk_test_XXX
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+STRIPE_WEBHOOK_SECRET=whsec_XXX
